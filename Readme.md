@@ -12,4 +12,3 @@
 
 <img width="1912" height="970" alt="Screenshot 2025-11-10 120007" src="https://github.com/user-attachments/assets/68244403-4cca-44d2-9e20-6b33e76f4177" />
 
-
