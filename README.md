@@ -41,7 +41,7 @@ It’s a beginner-friendly AWS project with **no coding required**, perfect for 
 - Scroll down → Click Create Distribution.
 - Once status changes to “Deployed”, you’ll get a CloudFront URL
 
-### 4. open your wesite
+### 4. check your website
 - use the url from S3
 - open it in your browser
 - your webpage will be loaded
