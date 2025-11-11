@@ -33,7 +33,7 @@ It’s a beginner-friendly AWS project with **no coding required**, perfect for 
 }
 ```
 
-### 3. Step 6: Add CloudFront (for HTTPS + Global CDN)
+### 3.  Add CloudFront (for HTTPS + Global CDN)
 
 - Go to CloudFront → Create Distribution.
 - Under Origin domain, select your S3 bucket.
